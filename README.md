@@ -24,6 +24,6 @@ What is the effect of weather conditions on the arrest rate?
 What is the relationship between the reasons for arrest and the weather conditions?
 
 # -Project Steps-
-# 1ST STEP: Preparing the data for analysis
-# 2ND STEP: Policing Data Exploration & Analysis
-# 3RD STEP: Analyzing the effect of weather on policing
+## 1ST STEP: Preparing the data for analysis
+## 2ND STEP: Policing Data Exploration & Analysis
+## 3RD STEP: Analyzing the effect of weather on policing
