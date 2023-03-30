@@ -8,8 +8,8 @@ The project shows us the relationship between gender and policing in many ways. 
 
 # The project answers the following questions:
 
--What is the rate of stopping vehicles by driver gender?
--What is the arrest rate by gender?
+What is the rate of stopping vehicles by driver gender?
+What is the arrest rate by gender?
 What is the arrest rate by race?
 For what reason are women drivers mostly stopped?
 For what reason are male drivers mostly stopped?
