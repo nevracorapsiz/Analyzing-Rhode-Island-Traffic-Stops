@@ -1,6 +1,7 @@
 # Analyzing Rhode Island Traffic Stops
 
 For this project, I used the Stanford Open Policing Project dataset and Climate Data from NCEI (National Centers for Environmental Information).
+You can access the Stanford Open Policing Project dataset at this link: https://openpolicing.stanford.edu/data/
 
 The project shows us the relationship between gender and policing in many ways. It also shows the arrest rate by region, arrest rate by month of the year, arrest rate by time of the day, arrest count by year, the contraband proportion by year, and reasons for stopping vehicles by zones. Additionally, to examine the impact of weather on policing, I used Climate Data belong Rhode Island. In this way, I examined the relationship between weather conditions to the arrest rate.
 
